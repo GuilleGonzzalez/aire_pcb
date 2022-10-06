@@ -1,7 +1,7 @@
 (footprint "ESP8266-12E" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 6331C660)
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at -5.57929 -16.39759) (layer "F.SilkS")
     (effects (font (size 1.000772 1.000772) (thickness 0.15)))
     (tstamp 57140f39-8a79-493e-b0f6-26b213632e56)
