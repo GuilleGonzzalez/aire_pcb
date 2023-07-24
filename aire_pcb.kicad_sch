@@ -2393,6 +2393,11 @@
     (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
     (uuid 4e5ab00b-2754-4a56-b09b-6175ee3b3982)
   )
+  (text "MEJORAS:\n- Revisar diametro holes\n- Juntar más los relés?\n- Pistas de potencia más anchas\n- Maristor está encima de HiLink\n- Revisar clearance pistas de potencia\n- Mover condensador temp ext\n- C1 muy cerca del HiLink\n- Pads reles muy pequeños\n- Transistor al revés\n- Buzzer con transistor\n- Pinouts de lso transistores mal (base y esmisor cambiados)\n- TP en vex de header para programar\n- Juntar más relés\n- SMD en una capa, TH en otra\n- Reles fríos\n- PIN IO13 parpadea cuando no se ha configurado el WiFi. Cambiar a otro y poner un LED?"
+    (at 67.31 196.85 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 5c73b119-6100-4975-88e8-082a39db04c4)
+  )
   (text "Sensors and actuators" (at 139.7 123.19 0)
     (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
     (uuid 7e9e374c-5861-4ee7-8c81-e157ea9d4645)

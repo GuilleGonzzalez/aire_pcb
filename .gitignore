@@ -26,3 +26,5 @@ fp-info-cache
 *.xml
 *.csv
 
+# Output files
+outputs/*
