@@ -8,7 +8,7 @@
     (title "Aire acondicionado")
     (date "2022-08-31")
     (company "Guille")
-    (comment 1 "On every boot/reset/wake, GPIO15 muest be LOW, GPIO2 mst be HIGH")
+    (comment 1 "On every boot/reset/wake, GPIO15 must be LOW, GPIO2 must be HIGH")
     (comment 2 "Run mode: GPIO0 HIGH. Flash mode GPIO0 LOW ")
   )
 
@@ -2393,7 +2393,7 @@
     (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
     (uuid 4e5ab00b-2754-4a56-b09b-6175ee3b3982)
   )
-  (text "MEJORAS:\n- Revisar diametro holes\n- Juntar más los relés?\n- Pistas de potencia más anchas\n- Maristor está encima de HiLink\n- Revisar clearance pistas de potencia\n- Mover condensador temp ext\n- C1 muy cerca del HiLink\n- Pads reles muy pequeños\n- Transistor al revés\n- Buzzer con transistor\n- Pinouts de lso transistores mal (base y esmisor cambiados)\n- TP en vex de header para programar\n- Juntar más relés\n- SMD en una capa, TH en otra\n- Reles fríos\n- PIN IO13 parpadea cuando no se ha configurado el WiFi. Cambiar a otro y poner un LED?"
+  (text "MEJORAS:\n- Revisar diametro holes\n- Juntar más los relés\n- Pistas de potencia más anchas\n- Varistor está encima de HiLink\n- Revisar clearance pistas de potencia\n- Mover condensador temp ext\n- C1 muy cerca del HiLink\n- Pads reles muy pequeños\n- Transistor al revés\n- Buzzer con transistor\n- TP en vez de header para programar\n- Juntar más relés\n- SMD en una capa, TH en otra\n- Reles fríos\n- PIN IO13 parpadea cuando no se ha configurado el WiFi. Cambiar a otro y poner un LED?"
     (at 67.31 196.85 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5c73b119-6100-4975-88e8-082a39db04c4)
